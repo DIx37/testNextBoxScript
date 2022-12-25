@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+test/
+circuits/
+dcim/
+extras/
+netbox/
+tenancy/
+config.py
